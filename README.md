@@ -21,7 +21,7 @@
 </ul>
 
 <p align="center">
-Os códigos estão na IDE online repl.it no endereço (**repl.it/@narelob**), para execução e vizualização de cada estrutura.
+Os códigos estão na IDE online repl.it no endereço (<b>repl.it/@narelob</b>), para execução e vizualização de cada estrutura.
 <img src="https://github.com/narelo/EstruturasDeDados/blob/main/replit.gif?raw=true">
 </p>
 
