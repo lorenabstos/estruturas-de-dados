@@ -1,28 +1,22 @@
-<h2 align="center">Estruturas de Dados (Data Structures)</h2>
+<h2 align="center">Estruturas de Dados</h2>
 
-<h3>Linguagem C  (C Language)</h3>
-<h4>Estruturas (structures):</h4>
+<h3>Linguagem C</h3>
+<h4>Estruturas:</h4>
 
 <ul>
-<li><b>Fila (Queue)</b></li>
-<li><b>Pilha (Stack)</b></li>
-<li><b>Vetor Dinâmico (Dynamic Array)</b></li>
-<li><b>Listas (Lists)</b></li>
+<li><b>Fila</b></li>
+<li><b>Pilha</b></li>
+<li><b>Vetor Dinâmico</b></li>
+<li><b>Listas</b></li>
 	<ul>
-	<li>Lista Simplesmente Encadeada (LSE | Singly Linked List)</li>
-	<li>Lista Duplamente Encadeada (LDE | Doubly Linked List) </li>
+	<li>Lista Simplesmente Encadeada</li>
+	<li>Lista Duplamente Encadeada</li>
 	</ul>
-<li><b>Árvores (Trees)</b></li>
+<li><b>Árvores</b></li>
 	<ul>
-	<li>Árvore AVL (AVL Tree)</li>
-	<li>Árvore 234 / Multiway (2-3-4/Multiway Tree)</li>
-	<li>Árvore Binária de Busca (ABB | Binary Search Tree)</li>
+	<li>Árvore AVL</li>
+	<li>Árvore 234 / Multiway </li>
+	<li>Árvore Binária de Busca</li>
 	</ul>
 </ul>
-
-<p align="center">
-Os códigos estão na IDE online repl.it no endereço (<b>repl.it/@narelob</b>), para execução e vizualização de cada estrutura.<br>
-<img src="https://github.com/narelo/EstruturasDeDados/blob/main/replit.gif?raw=true">
-<br>visit <b>repl.it/@narelob</b> to execute and view the codes.
-</p>
 
